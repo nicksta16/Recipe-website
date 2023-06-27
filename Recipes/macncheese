@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Algorithms for Cooking</title>
+</head>
+<body>
+    <h1>Life Story</h1>
+    <p>
+        This was a Recipe that I discovered after moving to the UK. In the USA we have these simple packets that we can use to make macaroni and cheese. After moving to the UK, these packets were either too expensive or simply were not in the supermarkets. So, I had to come up with my own recipe to sate my macaroni and cheese addiction.
+    </p>
+    <h1>Recipe</h1>
+    <h3>Ingredients</h3>
+    <ul>
+        <li>1 Tablespoon of Flour</li>
+        <li>1 Cup of Milk</li>
+        <li>2 Tablespoons of butter</li>
+        <li>200 grams of Pasta. Any pasta works, I prefer using Linguini</li>
+    </ul>
+    <h3>Method</h3>
+    <ol>
+        <li>Get 1 medium pot out and another smaller pot, place in medium heat.</li>
+        <li>Add the butter to the smaller pan and turn the heat on.</li>
+        <li>Fill the medium pot 3/4 of the way full with water and bring to boil.</li>
+        <li>While waiting for the water to boil, add the flour to the butter. Stir until mixed.</li>
+        <li>Add the milk to the butter and flour. Wisk out any lumps, add more milk if the sauce is too thick. Continue to stir until ready to be added to pasta.</li>
+        <li>Add pasta to boiling water. Cook until tender.</li>
+        <li>Drain the pasta.</li>
+        <li>Add the sauce to the pasta.</li>
+        <li>Mix and enjoy.</li>
+    </ol>
+    <h1>Credits</h1>
+    <p>I don't owe nobody in my family nothing</p>
+    <p style="font-size: 3;">That's a tripple negative!</p>
+
+    <p>link to <a href="../index.html">home</a></p>
+</body>
+</html>
