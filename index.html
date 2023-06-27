@@ -3,19 +3,34 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Recipes</title>
 </head>
 <body>
-    <h1>SteemedMuffins Recipe Website</h1>
-
-    <p>
+    <nav>SteemedMuffins Recipe Website
+        <div class="navBarItems">
+            <ul>
+                <li>Recipe</li>
+                <li><a href="aboutme.html">About Me</li></a>
+                <li>Mac&Cheese</li>
+            </ul>
+        </div>
+    </nav>
+    <container class="about">
+        <p>
         This website has different recipes that I have cooked before. 
         You can learn more about me <a href="aboutme.html">here!</a>
-    </p>
+        </p>
+        
+    </container>
 
-    <h3>Recipes</h3>
-    <ul>
-        <li><a href="recipes/macncheese">macaroni and cheese</a></li>
-    </ul>   
+    <container class="recipes">
+        <div class="recipesHead">
+            <div>Recipes</div>
+        </div>
+        <div>
+            <h1><a href="recipes/macncheese">Macaroni and Cheese</a></h1>
+        </div>   
+    </container>
 </body>
 </html>

@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(2, 255, 158);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 50rem;
+    justify-content: space-around;
+}
+
+h1{
+    animation: shake 4s linear infinite;
+    color: rgb(98, 0, 255);
+    text-decoration: none;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+@keyframes shake {
+    0% {
+        transform: translateX(0px);
+    }
+    25%{
+        transform: translateY(30px);
+    }
+    50%{
+        transform: translateX(-110px);
+    }
+    75%{
+        transform: translateY(-30px);
+        transform: translateX(90px);
+    }
+    100% {
+        transform: translateX(0px);
+        transform: translateY(0px);
+    }
+}

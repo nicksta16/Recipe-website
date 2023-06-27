@@ -1,0 +1,63 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: -webkit-radial-gradient(rgba(0, 255, 136, 0.856), rgba(2, 183, 238, 0.7));
+    background-size: cover;
+    height: 100rem;
+    margin: 0px;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    background-image: -webkit-radial-gradient(rgba(208, 255, 0, 0.753), rgb(2, 183, 238, 0.7));
+    width: 100%;
+    justify-content: space-between;
+    height: 8rem;
+    padding-left: 3em;
+    font-family: "copperplate", fantasy;
+    font-size: 30px;
+}
+
+.navBarItems{
+    display: inline;
+    padding-right: 10rem;
+    font-size: 20px;
+    font-family: "lucida handwriting", cursive;
+}
+
+ul{
+    padding-left: 100px;
+}
+
+li{
+    display: inline;
+    margin: 2rem;
+    font-family: "lucida handwriting", cursive;
+    color: rgb(92, 1, 128);
+    text-decoration: underline;
+}
+
+.about{
+    display: flex;
+    margin: 15rem;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.recipes{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    padding-top: 10rem;
+}
+
+.recipesHead{
+    font-size: 45px;
+    margin: 0 98rem 5rem 0;
+    text-decoration: underline;
+    font-family: "lucida console", monospace;
+}
+
